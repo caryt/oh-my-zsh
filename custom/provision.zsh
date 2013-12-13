@@ -1,11 +1,3 @@
-provision_mac() {
-    provision_base
-    provision_preferences
-    provision_applications
-    provision_command_line_tools
-    provision_python
-}
-
 provision_base() {
     #Homebrew
     #--------
@@ -105,3 +97,13 @@ provision_python () {
     wget "https://pypi.python.org/packages/source/S/Sphinx/Sphinx-1.2b3.tar.gz#md5=10d0bffdf01f0eddd57b9e0af0623457"
     pip install Sphinx-1.2b3.tar.gz
 }
+
+provision_mac() {
+    provision_base
+    provision_preferences
+    provision_applications
+    provision_command_line_tools
+    provision_python
+}
+
+provision_mac
