@@ -105,5 +105,3 @@ provision_mac() {
     provision_command_line_tools
     provision_python
 }
-
-provision_mac

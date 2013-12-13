@@ -4,6 +4,11 @@ oh-my-zsh is an open source, community-driven framework for managing your ZSH co
 
 bq. "OH MY ZSHELL!"
 
+h2. Provisioning a new Mac
+
+curl -L https://raw.github.com/caryt/oh-my-zsh/master/custom/provision.zsh | sh
+provision_mac
+
 h2. Setup
 
 @oh-my-zsh@ should work with any recent release of "zsh":http://www.zsh.org/, the minimum recommended version is 4.3.9.
