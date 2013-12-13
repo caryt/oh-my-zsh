@@ -11,5 +11,9 @@ export PATH=/usr/local/bin:$PATH
 export PIP_REQUIRE_VIRTUALENV=true
 source /usr/local/bin/virtualenvwrapper.sh
 
-
+#Shortcuts
+docs=~/Documents
+down=~/Downloads
+bt=~/Documents/bt
+omz=~/.oh-my-zsh
 

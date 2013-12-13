@@ -1,0 +1,868 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ge",
+				"inv_geometrix"
+			],
+			[
+				"Co",
+				"ControlGroup"
+			],
+			[
+				"a",
+				"ancestors"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/cary/Dropbox/Mac OS X New Machine Set up.md",
+			"settings":
+			{
+				"buffer_size": 4899,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/zshrc.zsh-template",
+			"settings":
+			{
+				"buffer_size": 2076,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Git: Diff Tool All"
+			],
+			[
+				"git c",
+				"Git: Commit"
+			],
+			[
+				"repl",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 172.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/cary/.oh-my-zsh/templates/zshrc.zsh-template",
+		"/Users/cary/.zshrc",
+		"/Users/cary/.oh-my-zsh/custom/cary.zsh",
+		"/Users/cary/.oh-my-zsh/plugins/common-aliases/common-aliases.plugin.zsh",
+		"/Users/cary/.oh-my-zsh/plugins/vagrant/_vagrant",
+		"/Users/cary/.oh-my-zsh/plugins/pep8/_pep8",
+		"/Users/cary/.oh-my-zsh/plugins/command-not-found/command-not-found.plugin.zsh",
+		"/Users/cary/.oh-my-zsh/plugins/history/history.plugin.zsh",
+		"/Users/cary/.oh-my-zsh/plugins/git/git.plugin.zsh",
+		"/Users/cary/.oh-my-zsh/plugins/github/github.plugin.zsh",
+		"/Users/cary/.oh-my-zsh/plugins/battery/battery.plugin.zsh",
+		"/Users/cary/.oh-my-zsh/plugins/colorize/colorize.plugin.zsh",
+		"/Users/cary/.oh-my-zsh/plugins/brew/brew.plugin.zsh",
+		"/Users/cary/Documents/bt/Weather/Weather.py",
+		"/Users/cary/Documents/bt/Client/Building.py",
+		"/Users/cary/Documents/bt/Address/Address.py",
+		"/Users/cary/Dropbox/Mac OS X New Machine Set up.md",
+		"/Users/cary/Library/Application Support/Sublime Text 2/Packages/GitGutter/GitGutter.sublime-settings",
+		"/Users/cary/Documents/bt/Weather/WorldClim.py",
+		"/Users/cary/Documents/bt/Controller/WSGIApplication.py",
+		"/Users/cary/Documents/bt/Controller/Application.py",
+		"/Users/cary/Documents/bt/Utilities/CLIApplication.py",
+		"/Users/cary/Documents/bt/Utilities/Point.py",
+		"/Users/cary/Documents/bt/__main__.py",
+		"/Users/cary/Documents/bt/Config/Config.py",
+		"/Users/cary/Documents/bt/Controller/YAMLUtilities.py",
+		"/Users/cary/Documents/bt/Controller/BuildingTuner.py",
+		"/Users/cary/Documents/bt/Controller/REST.py",
+		"/Users/cary/Documents/bt/Controller/JSONUtilities.py",
+		"/Users/cary/Documents/bt/Controller/Controller.rst",
+		"/Users/cary/Documents/bt/Controller/__init__.py",
+		"/Users/cary/Documents/bt/tests/testController.py",
+		"/Users/cary/Documents/bt/Weather/Climate.py",
+		"/Users/cary/Documents/bt/Weather/OpenWeatherMap.py",
+		"/Users/cary/Documents/bt/tests/testWeather.py",
+		"/Users/cary/Documents/bt/Utilities/Calendar.py",
+		"/Users/cary/Documents/bt/Utilities/Registered.py",
+		"/Users/cary/Documents/bt/Utilities/Utilities.rst",
+		"/Users/cary/Documents/bt/Utilities/Cordinate.py",
+		"/Users/cary/Documents/bt/Controller/MongoDB.py",
+		"/Users/cary/Documents/bt/Client/ControlGroup.py",
+		"/Users/cary/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/cary/Library/Application Support/Sublime Text 2/Packages/User/bh_core.sublime-settings",
+		"/Users/cary/Documents/bt/Address/__init__.py",
+		"/Users/cary/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/cary/Library/Application Support/Sublime Text 2/Packages/BracketHighlighter/bh_core.sublime-settings",
+		"/Users/cary/Library/Application Support/Sublime Text 2/Packages/Color Scheme - Default/Dawn.tmTheme",
+		"/Users/cary/Documents/bt/tests/BuildingTuner.py",
+		"/Users/cary/Documents/bt/Rule/Action.py",
+		"/Users/cary/Documents/bt/tests/testCost.py",
+		"/Users/cary/Library/Application Support/Sublime Text 2/Packages/User/SublimeREPL.sublime-settings",
+		"/Users/cary/Library/Application Support/Sublime Text 2/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/Users/cary/Documents/bt/Preference/Preference.py",
+		"/Users/cary/Documents/bt/Cost/Cost.py",
+		"/Users/cary/Documents/bt/Cost/Weather.py",
+		"/Users/cary/Documents/bt/Cost/Climate.py",
+		"/Users/cary/Library/Application Support/Sublime Text 2/Packages/Git/Git.sublime-settings",
+		"/Users/cary/Documents/bt/.git/COMMIT_EDITMSG",
+		"/Users/cary/Library/Application Support/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/cary/Documents/bt/index.rst",
+		"/Users/cary/Documents/bt/Preference/Comfort.py",
+		"/Users/cary/Documents/bt/Preference/Brightness.py",
+		"/Users/cary/Documents/bt/tests/testPreference.py",
+		"/Users/cary/Documents/bt/Cost/Address.py",
+		"/Users/cary/Documents/bt/Device/Light.py",
+		"/Users/cary/Documents/bt/Device/__init__.py",
+		"/Users/cary/Documents/bt/tests/testDevice.py",
+		"/Users/cary/Documents/bt/Preference/__init__.py",
+		"/Users/cary/Documents/bt/Preference/Preference.rst",
+		"/Users/cary/Documents/bt/Device/Device.rst",
+		"/Users/cary/Documents/bt/Device/Device.py",
+		"/Users/cary/Documents/bt/Cost/Cost.rst",
+		"/Users/cary/Documents/bt/tests/__init__.py",
+		"/Users/cary/Documents/bt/Cost/__init__.py",
+		"/Users/cary/Documents/bt/Device/HVAC.py",
+		"/Users/cary/Documents/bt/Cost/Device.py",
+		"/Users/cary/Documents/bt/Rule/Rule.py",
+		"/Users/cary/Documents/bt/Rule/Condition.py",
+		"/Users/cary/Documents/bt/Rule/Model.py",
+		"/Users/cary/Documents/bt/Rule/Recurrance.py",
+		"/Users/cary/Documents/bt/Cost/Power.py",
+		"/Users/cary/Documents/bt/Config/setup.yml",
+		"/Users/cary/Documents/bt/tests/tests.rst",
+		"/Users/cary/Documents/bt/Cost/Comfort.py",
+		"/Users/cary/Documents/bt/Cost/Preference.rst",
+		"/Users/cary/Documents/bt/Cost/astral.py",
+		"/Users/cary/Documents/bt/tests/testClient.py",
+		"/Users/cary/Downloads/tmean_10m_bil/tmean1.hdr",
+		"/Users/cary/Downloads/tmean/tmean_1/w001001.adf",
+		"/Users/cary/Downloads/tmean_10m_bil/tmean1.bil",
+		"/Users/cary/Documents/bt/User/User.py",
+		"/Users/cary/Documents/bt/Client/Client.py",
+		"/Users/cary/Documents/bt/Client/Zone.py",
+		"/Users/cary/Documents/bt/User/Authentication.py",
+		"/Users/cary/Documents/bt/Controller/routes.py",
+		"/Users/cary/Documents/bt/tests/testUser.py",
+		"/Users/cary/Documents/bt/tests/testRule.py",
+		"/Users/cary/Documents/bt/Config/defaults.py",
+		"/Users/cary/Documents/bt/conf.py",
+		"/Users/cary/Documents/bt/tests/__main__.py",
+		"/Users/cary/Documents/bt/User/Password.py",
+		"/Users/cary/Documents/bt/__init__.py",
+		"/Users/cary/Documents/bt/User/__init__.py",
+		"/Users/cary/Documents/bt/Rule/__init__.py",
+		"/Users/cary/Documents/bt/Config/__init__.py",
+		"/Users/cary/Documents/bt/Client/__init__.py",
+		"/Users/cary/Documents/bt/LICENSE",
+		"/Users/cary/Documents/bt/README.md",
+		"/Users/cary/Documents/bt/User/User.rst",
+		"/Users/cary/Documents/bt/Config/delete.yaml",
+		"/Users/cary/Documents/bt/Client/Client.rst",
+		"/Users/cary/Documents/bt/deploy/bootstrap.sh",
+		"/Users/cary/Documents/bt/deploy/provision",
+		"/Users/cary/Documents/bt/deploy/security.sh",
+		"/Users/cary/Documents/bt/deploy/smoke.sh",
+		"/Users/cary/Documents/bt/deploy/environment.sh",
+		"/Users/cary/Documents/bt/deploy/buildingTuner.sh",
+		"/Users/cary/Documents/bt/deploy/test.conf",
+		"/Users/cary/Documents/bt/Vagrantfile",
+		"/Users/cary/Documents/bt/start-server.py",
+		"/Users/cary/Documents/bt/.gitignore",
+		"/Users/cary/Documents/bt/deploy/github_rsa.pub",
+		"/Users/cary/Documents/bt/deploy/stage",
+		"/Users/cary/Documents/bt/deploy/buildingTuner",
+		"/Users/cary/Documents/bt/deploy/environment",
+		"/Users/cary/Documents/bt/deploy/database",
+		"/Users/cary/Documents/bt/build/BuildingTuner.epub",
+		"/Users/cary/Documents/bt/tests/testBuildingTuner.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"LSCOLORS",
+			"loads",
+			"self.inv",
+			"inv_geometrix",
+			"config.",
+			"BT_HOST",
+			"BT_ROOT",
+			"date",
+			"from",
+			"YAML",
+			"db_map",
+			"_location",
+			"sun",
+			"JSON",
+			"TEXT",
+			"sin",
+			"northern",
+			"ControlGroup",
+			"db_map",
+			"lat",
+			"comfort",
+			"brightness",
+			"comfort",
+			"Weather.",
+			"AnnualWeather",
+			".desc",
+			"timedelt",
+			"replace",
+			"combine",
+			"~.",
+			":attr:",
+			"print",
+			"def sun",
+			"class Astral",
+			"name",
+			"location",
+			"app.db",
+			"db.db",
+			"__iter__",
+			"Mongo",
+			"MongoDB",
+			"urlopen",
+			"location",
+			"bias",
+			"COMFORT",
+			"buildingTuner",
+			"building",
+			"buildingTuner",
+			"[]\n",
+			"buildingTuner",
+			"====================",
+			"buildingTuner",
+			"from User import User\nenviron",
+			"Request",
+			"access",
+			"/foo",
+			"ADMIN",
+			"model",
+			"========\n",
+			"set()",
+			"HTTPException",
+			"User",
+			"accessable",
+			"Bias",
+			"classmethod",
+			"Bias",
+			"self.",
+			"_derived",
+			"environ()",
+			"environ",
+			"_parse",
+			"json",
+			"BT_USER",
+			"_rsa",
+			"$1",
+			"cary",
+			"\n/",
+			"tests.rst",
+			"json",
+			"parse",
+			"Low",
+			"__get",
+			"item",
+			"x",
+			"Rule",
+			"comfort",
+			"1",
+			":",
+			",",
+			"'",
+			"config",
+			"Config.py",
+			"client",
+			"Client",
+			"client",
+			"Client",
+			"client",
+			"Client",
+			"client",
+			"Client",
+			"client",
+			"Client",
+			"client",
+			"Client",
+			"client",
+			"Client",
+			"client",
+			"Client",
+			"client",
+			"Client",
+			"client",
+			"Client",
+			"client",
+			"Client",
+			"client",
+			"Client",
+			"client",
+			"Client",
+			"args",
+			"request.",
+			"int:",
+			"__init__.py"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			": ",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/cary/Dropbox/Mac OS X New Machine Set up.md",
+					"settings":
+					{
+						"buffer_size": 4899,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2581,
+								2581
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2.0,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5.0,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10.0,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublime_auto_complete": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "templates/zshrc.zsh-template",
+					"settings":
+					{
+						"buffer_size": 2076,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 329.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 190.0,
+	"status_bar_visible": true
+}
