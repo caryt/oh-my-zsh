@@ -1,12 +1,4 @@
-#zsh customisations
-ZSH_THEME="philips"
-COMPLETION_WAITING_DOTS="true"
-HIST_STAMPS="mm/dd/yyyy"
-plugins=(common-aliases)
-
-source $ZSH/oh-my-zsh.sh
-
-#CGit aliases
+#Git aliases
 alias gs='git status '
 alias ga='git add -A .'
 alias gc='git commit -m '
