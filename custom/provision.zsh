@@ -59,6 +59,8 @@ provision_applications() {
 
     #Applications
     #------------
+    brew cask install alfred
+    brew cask alfred link
     brew cask install macports
     brew cask install dropbox
     brew cask install google-chrome
@@ -68,6 +70,10 @@ provision_applications() {
     ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" /usr/local/bin/subl
     brew cask install virtualbox
     brew cask install vagrant
+    brew cask install jumpcut
+    brew cask install flux
+    brew cask install bartender
+    brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv betterzipql webp-quicklook suspicious-package && qlmanage -r
 }
 
 provision_command_line_tools() {

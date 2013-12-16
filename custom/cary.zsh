@@ -4,6 +4,9 @@ alias ga='git add -A .'
 alias gc='git commit -m '
 alias gp='git push -u origin master'
 
+#QuickLook
+ql() {qlmanage -p "$@" >& /dev/null &}
+
 #My PATH
 PATH="/Library/Frameworks/Python.framework/Versions/2.7/bin:${PATH}"
 export PATH
