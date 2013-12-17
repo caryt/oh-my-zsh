@@ -7,6 +7,15 @@ alias gp='git push -u origin master'
 #QuickLook
 ql() {qlmanage -p "$@" >& /dev/null &}
 
+#Finder / Terminal integration
+alias filef='osascript -e "tell application \"SystemUIServer\" to return POSIX path of (choose file   default location POSIX file \"`pwd`\" with prompt \"`pwd`\")"'
+alias folderf='osascript -e "tell application \"SystemUIServer\" to return POSIX path of (choose folder default location POSIX file \"`pwd`\" with prompt \"`pwd`\")"'
+alias openf='open $(filef)'
+alias editf='subl $(filef)'
+alias llf='ll $(folderf)'
+alias cdf='cd $(folderf)'
+alias rmf='rm $(filef)'
+
 #My PATH
 PATH="/Library/Frameworks/Python.framework/Versions/2.7/bin:${PATH}"
 export PATH
@@ -19,4 +28,5 @@ docs=~/Documents
 down=~/Downloads
 bt=~/Documents/bt
 omz=~/.oh-my-zsh
+utensils=~/Documents/utensils
 
